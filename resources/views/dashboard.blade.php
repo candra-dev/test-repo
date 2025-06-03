@@ -14,4 +14,6 @@
             </div>
         </div>
     </div>
+
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea adipisci doloremque cum aliquam laborum eligendi id ducimus, eaque doloribus. Perferendis expedita ducimus aperiam modi voluptates nesciunt, sit asperiores consectetur tenetur?
 </x-app-layout>
